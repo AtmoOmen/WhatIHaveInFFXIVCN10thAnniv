@@ -2,7 +2,7 @@ using System;
 using System.Reflection;
 using Dalamud.Plugin;
 
-namespace SamplePlugin;
+namespace WhatIHaveInFFXIVCN10thAnniv;
 
 public sealed class Plugin : IDalamudPlugin
 {

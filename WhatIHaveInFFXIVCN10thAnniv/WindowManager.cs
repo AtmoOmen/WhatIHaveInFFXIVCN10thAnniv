@@ -1,7 +1,7 @@
 using System.Linq;
 using Dalamud.Interface.Windowing;
-using SamplePlugin;
-using SamplePlugin.Windows;
+using WhatIHaveInFFXIVCN10thAnniv;
+using WhatIHaveInFFXIVCN10thAnniv.Windows;
 
 namespace DailyRoutines.Managers;
 

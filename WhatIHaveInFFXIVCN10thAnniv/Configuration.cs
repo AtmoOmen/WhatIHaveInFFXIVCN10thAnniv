@@ -1,7 +1,7 @@
 using System;
 using Dalamud.Configuration;
 
-namespace SamplePlugin;
+namespace WhatIHaveInFFXIVCN10thAnniv;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
