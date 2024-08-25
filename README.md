@@ -1,15 +1,3 @@
-# Omen Sample Plugin
+# What I Have In FFXIV CN 10th Anniversary
 
-Modified from goatcorp's one, by AtmoOmen. Mainly for my personal use.
-
-修改自羊圈的示例插件模板，主要为我个人使用。
-
-## Information / 信息
-
-- **API**： 9
-
-- **Dalamud Packager**: 2.1.12
-
-- Provides a more logical code arrangement and simpler service and configuration management.
-
-  提供了更加逻辑明确的代码，和更加简洁的服务与配置管理。
+我到底在 10 周年庆活动里缺了啥，为什么没有查询功能
